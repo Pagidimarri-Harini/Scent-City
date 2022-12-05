@@ -1,1 +1,1 @@
-# major_project
+# Scent City- A perfume Website
